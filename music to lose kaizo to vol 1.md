@@ -1,12 +1,3 @@
-Music to Lost Kaizo To Vol 1:
-
-https://www.udio.com/songs/avfWtXN6cWn1fJKE37UpFP?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-
-https://www.udio.com/songs/1GjjbGzZNqnW4qysPtkyaP?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-
-
-
-
 <p align="center"><img src="https://i.imgur.com/wmhuC1K.png"></p>
 
 <p align="center"><i>A collection of battle themes for my Kaizo Ironmon attempts.</i>

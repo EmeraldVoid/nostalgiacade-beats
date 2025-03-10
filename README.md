@@ -7,6 +7,7 @@ Nostalgiacade Beats is a YouTube channel owned and operated by Emerald_Void, fea
 
 ## 🎵 Available Albums
 A list of available albums can be found below. Each album contains tracks specifically created to be used in content creation without copyright restrictions.
+- [Music to Lose Kaizo To Volume 1](https://github.com/EmeraldVoid/nostalgiacade-beats/tree/da91e97dbff2b27d358d8c947237173460f831e4/Music%20to%20Lose%20Kaizo%20To)
 
 
 ## 📜 License

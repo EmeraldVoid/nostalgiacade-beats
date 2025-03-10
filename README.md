@@ -31,3 +31,13 @@ You can credit the music on Twitch in one of the following ways:
 **Option 2:** Add a banner on your Twitch channel page that links here.
 
 Feel free to use these tracks in your projects—just give credit and enjoy the music! 🎶
+
+## Disclaimer  
+
+## Disclaimer  
+
+The music in this repository was created using AI. I understand that AI-generated music isn’t for everyone, and that’s completely okay!  
+
+My goal was simply to create some memorable tracks to use on stream, even without traditional musical talent. If you enjoy them and want to use them, feel free. If AI music isn’t your thing, no worries—I appreciate you taking the time to check it out! 🎵  
+
+

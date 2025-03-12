@@ -7,6 +7,9 @@ This album features songs composed for various key moments in my Kaizo Ironmon r
 
 Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your best run end to a surprise Destiny Bond, there's a song here for that moment.</p>
 
+<p> You can preview the whole album <a href="https://jmp.sh/ACPtMlYj">Here</a></p>
+
+
 ## Track List:
 
 | **#** 	| **Title:**           	| **Trainer:** 	|
@@ -26,7 +29,6 @@ Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your
 | 13    	| One Crit, One Dream (Version 1)  	| Champion     	|
 | 14      | One Crit, One Dream (Version 2)   | Champion      |
 | 15      | One Crit, One Dream (Version 3)   | Champion      |
-| 16      | One Crit, One Dream (Version 4)   | Champion      |
 
 
 ## Artwork

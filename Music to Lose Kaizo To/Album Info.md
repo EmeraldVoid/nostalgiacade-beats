@@ -28,6 +28,13 @@ Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your
 | 15      | One Crit, One Dream (Version 3)   | Champion      |
 | 16      | One Crit, One Dream (Version 4)   | Champion      |
 
+
+## Artwork
+The album art was created using [Ideogram](https://ideogram.ai) and edited in photoshop bu Emerald_Void
+
+## Mastering
+The tracks were mastered using BandLab's [mastering tool](https://www.bandlab.com/mastering)
+
 ## Disclaimer  
 
 The music in this repository was created using AI. I understand that AI-generated music isn’t for everyone, and that’s completely okay!  

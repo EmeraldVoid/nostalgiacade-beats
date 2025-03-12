@@ -8,6 +8,7 @@ This album features songs composed for various key moments in my Kaizo Ironmon r
 Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your best run end to a surprise Destiny Bond, there's a song here for that moment.</p>
 
 <p> You can preview the whole album <a href="https://jmp.sh/ACPtMlYj">Here</a></p>
+<strong>Download the full album</strong> <a href="https://drive.google.com/file/d/15CY61jXLyMe2N09qrNIn51SyCfVVjlCx/view?usp=drive_link">Here</a>
 
 
 ## Track List:

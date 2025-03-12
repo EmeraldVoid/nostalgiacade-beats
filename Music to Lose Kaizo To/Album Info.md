@@ -30,7 +30,7 @@ Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your
 
 
 ## Artwork
-The album art was created using [Ideogram](https://ideogram.ai) and edited in photoshop bu Emerald_Void
+The album art was created using [Ideogram](https://ideogram.ai) and edited in photoshop by Emerald_Void
 
 ## Mastering
 The tracks were mastered using BandLab's [mastering tool](https://www.bandlab.com/mastering)

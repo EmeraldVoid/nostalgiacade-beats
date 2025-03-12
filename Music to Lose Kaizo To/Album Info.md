@@ -23,7 +23,10 @@ Whether you're sweeping a gym, getting frozen solid by Lorelei, or watching your
 | 10    	| Gauntlet of Pain     	| Bruno        	|
 | 11    	| Haunted Factory      	| Agatha       	|
 | 12    	| Gatekeeper of Dreams 	| Lance        	|
-| 13    	| One Crit, One Dream  	| Champion     	|
+| 13    	| One Crit, One Dream (Version 1)  	| Champion     	|
+| 14      | One Crit, One Dream (Version 2)   | Champion      |
+| 15      | One Crit, One Dream (Version 3)   | Champion      |
+| 16      | One Crit, One Dream (Version 4)   | Champion      |
 
 ## Disclaimer  
 

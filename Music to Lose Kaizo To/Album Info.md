@@ -1,4 +1,4 @@
-
+<h1 align="center">Music to Lose Kaizo to Vol. 1</h1>
 <p align="center"><img src="https://i.imgur.com/wmhuC1K.png"></p>
 
 <p align="center"><i>A collection of battle themes for my Kaizo Ironmon attempts.</i>

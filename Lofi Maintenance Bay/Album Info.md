@@ -1,5 +1,5 @@
 <h1 align="center">Untitled Album 2</h1>
-<p align="center"><img src="https://i.imgur.com/wBBrx55.png"></p>
+<p align="center"><img src="https://i.imgur.com/80Kw9x1.png"></p>
 
 <p align="center"><i>Place Holder Github page until the album is released</i>
 
